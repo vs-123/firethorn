@@ -4,7 +4,12 @@
 	"version": "1.0",
 	"description": "Bring back þorn",
 	"action": {
-		"default_popup": "popup.html"
+		"default_popup": "popup.html",
+		"default_icon": {
+			"16": "assets/icon.png",
+			"32": "assets/icon.png",
+			"48": "assets/icon.png"
+		}
 	},
 	"permissions": [
 		"storage",
