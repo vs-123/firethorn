@@ -5,7 +5,7 @@
 
 = FIRETHORN
 
-image::{raw-url}/assets/icon.png[Firethorn Icon]
+image::{raw-url}/assets/icon.png[Firethorn Icon,align="center",width=75%]
 
 Bring back thorn/þorn to the web with this Firefox extension.
 
