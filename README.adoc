@@ -12,6 +12,12 @@ pass:[</p>]
 
 Bring back thorn/þorn to the web with this Firefox extension.
 
+== SCREENSHOT
+
+pass:[<p align="center">] 
+image:{raw-url}/assets/ss1.png[Firethorn Screenshot 1,align="center",width=75%]
+pass:[</p>]
+
 == FEATURES
 
 * **ORTHOGRAPHIC RESTORATION** {em} Automatically swaps modern `th` digraphs for the majestic `þ`.
