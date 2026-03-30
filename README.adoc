@@ -27,6 +27,22 @@ pass:[</p>]
 * **BLACKLIST** {em} Features a built-in blacklist to exclude specific domains.
 * **DEVELOPER FRIENDLY** {em} Skips sensitive HTML tags like `<code>`, `<pre>` and `<input>` to prevent breaking technical content or form submissions.
 
+== USAGE
+
+As this extension is currently in development, it must be loaded manually into Firefox. This is presently the *only way* to use Firethorn until it is officially signed and hosted on the Firefox Add ons store.
+
+* Obtain a local copy of this repository on your machine.
+
+* Open Firefox and type `about:debugging` in the address bar and press Enter.
+
+* Click on **"This Firefox"** in the left-hand sidebar.
+
+* Click the **"Load Temporary Add-on..."** button.
+
+* Navigate to your Firethorn folder and select the `manifest.json` file.
+
+* The extension is now active. Note that temporary extensions get removed when you restart Firefox.
+
 == LICENSE
 
 This project is licensed under the *{license}*.
