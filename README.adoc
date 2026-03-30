@@ -6,6 +6,11 @@
 
 Bring back þorn to the web with this extension.
 
+== FEATURES
+
+* **THORN** {em} Replaces `th`, `Th` and `TH` with `þ`, `Þ` and `Þ` respectively.
+* **ETH** {em} Replaces `dh`, `Dh` and `DH` with `ð`, `Ð` and `Ð` respectively.
+
 == LICENSE
 
 This project is licensed under the *GNU Affero General Public License version 3.0 or later*.

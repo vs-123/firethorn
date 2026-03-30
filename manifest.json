@@ -2,7 +2,13 @@
 	"manifest_version": 3,
 	"name": "Firethorn",
 	"version": "1.0",
-	"description": "Bring back þ",
+	"description": "Bring back þorn",
+	"action": {
+		"default_popup": "popup.html"
+	},
+	"permissions": [
+		"storage"
+	],
 	"content_scripts": [
 		{
 			"matches": ["<all_urls>"],
