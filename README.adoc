@@ -4,13 +4,16 @@
 
 = FIRETHORN
 
-Bring back þorn to the web with this extension.
+Bring back thorn/þorn to the web with this extension.
 
 == FEATURES
 
-* **THORN** {em} Replaces `th`, `Th` and `TH` with `þ`, `Þ` and `Þ` respectively.
-* **ETH** {em} Replaces `dh`, `Dh` and `DH` with `ð`, `Ð` and `Ð` respectively.
-* **DYNAMIC** {em} Performs replacements dynamically.
+* **ORTHOGRAPHIC RESTORATION** {em} Automatically swaps modern `th` digraphs for the majestic `þ`.
+* **SMART CASE MAPPING** {em} Respects capitalisation rules to ensure `the`, `The` and `THE` become `þe`, `Þe` and `ÞE` respectively. Similar applies for Eth.
+* **OPTIONAL ETH SUPPORT** {em} Toggleable `dh` to `ð` conversion. When disabled, `dh` is treated as a variant of thorn.
+* **LIVE MUTATION** {em} Uses `MutationObserver` to catch and convert new text in real time on infinite scroll sites like Reddit or X.
+* **BLACKLIST** {em} Features a built in blacklist to exclude specific domains.
+* **DEVELOPER FRIENDLY** {em} Skips sensitive HTML tags like `<code>`, `<pre>` and `<input>` to prevent breaking technical content or form submissions.
 
 == LICENSE
 
