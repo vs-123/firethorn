@@ -1,8 +1,11 @@
 :em: {sp}--{sp}
+:license: GNU Affero General Public License version 3.0 or later
 :license-link: link:https://www.gnu.org/licenses/agpl-3.0.en.html[]
-:raw-url: https://raw.githubusercontent.com/vs-123/cchat/refs/heads/au
+:raw-url: https://raw.githubusercontent.com/vs-123/firethorn/refs/heads/main
 
 = FIRETHORN
+
+image::{raw-url}/assets/icon.png[Firethorn Icon]
 
 Bring back thorn/þorn to the web with this Firefox extension.
 
@@ -17,7 +20,7 @@ Bring back thorn/þorn to the web with this Firefox extension.
 
 == LICENSE
 
-This project is licensed under the *GNU Affero General Public License version 3.0 or later*.
+This project is licensed under the *{license}*.
 
 *NO WARRANTY PROVIDED*
 
