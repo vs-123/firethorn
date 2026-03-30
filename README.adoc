@@ -5,7 +5,10 @@
 
 = FIRETHORN
 
+// bad gh :(
+pass:[<p align="center">] 
 image::{raw-url}/assets/icon.png[Firethorn Icon,align="center",width=45%]
+pass:[</p>]
 
 Bring back thorn/þorn to the web with this Firefox extension.
 
