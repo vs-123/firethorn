@@ -1,0 +1,15 @@
+:em: {sp}--{sp}
+:license-link: link:https://www.gnu.org/licenses/agpl-3.0.en.html[]
+:raw-url: https://raw.githubusercontent.com/vs-123/cchat/refs/heads/au
+
+= FIRETHORN
+
+Bring back þorn to the web with this extension.
+
+== LICENSE
+
+This project is licensed under the *GNU Affero General Public License version 3.0 or later*.
+
+*NO WARRANTY PROVIDED*
+
+For more information, see `LICENSE` file or visit {license-link}.
